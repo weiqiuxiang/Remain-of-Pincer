@@ -1,0 +1,563 @@
+﻿  CScoreGame.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CSceneTraBotton.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CPlayerSelecterEF.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CPlayerSelecter.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CPlayerGuild.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CPlayerArrow.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CPauseObj.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CPause.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\ui\cpause\cpause.cpp(95): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\ui\cpause\cpause.cpp(100): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\ui\cpause\cpause.cpp(105): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\ui\cpause\cpause.cpp(110): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\ui\cpause\cpause.cpp(115): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\ui\cpause\cpause.cpp(135): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\ui\cpause\cpause.cpp(168): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\ui\cpause\cpause.cpp(175): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\ui\cpause\cpause.cpp(208): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\ui\cpause\cpause.cpp(242): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\ui\cpause\cpause.cpp(276): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+  CNumberGame.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\ui\cnumbergame.cpp(99): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\ui\cnumbergame.cpp(100): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\ui\cnumbergame.cpp(101): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\ui\cnumbergame.cpp(102): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  CJudge.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CFontUIEffect.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CFontUI.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  TexManager.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Tex.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  XInputGamepad.cpp
+  scene.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  renderer.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(35): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(36): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  inputmouse.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\inputmouse.cpp(32): warning C4101: 'hr': ローカル変数は 1 度も使われていません。
+  input.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  hitCheck.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(7): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(8): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(9): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(10): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(16): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(17): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(21): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(22): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(24): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(25): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(39): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(40): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(41): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(42): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(48): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(49): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(53): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(54): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(56): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(57): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(69): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(70): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(71): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(72): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(74): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(75): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(76): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(77): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(88): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(89): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(90): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\system\hitcheck.cpp(91): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  コンパイル中...
+  CEarthquake.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  sound.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  TutorialMaster02.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(35): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(36): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(172): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(173): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(214): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(215): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(216): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(217): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(238): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(239): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(314): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(315): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(316): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(317): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(339): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(340): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(380): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(501): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(502): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(503): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(504): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(550): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(551): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(680): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(681): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(682): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster02.cpp(683): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  TutorialMaster.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(35): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(36): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(185): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(186): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(187): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(191): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(226): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(227): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(228): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(229): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(249): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(250): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(326): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(327): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(328): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(329): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(350): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(351): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(500): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(501): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(502): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(503): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(537): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(538): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(539): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(543): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(544): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(547): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(671): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(672): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(673): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(674): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(769): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(844): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(845): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(883): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(884): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(959): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(971): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\tutorialmaster.cpp(972): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  CTutorialBlack.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CTutorial02.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\ctutorial02.cpp(18): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+  CTutorial.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\ctutorial.cpp(17): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\ctutorial.cpp(18): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\ctutorial.cpp(20): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\tutorial\ctutorial.cpp(21): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+  CMouseClickZone.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CTitleTraBotton.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CTitleMaster.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\ctitlemaster.cpp(155): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\ctitlemaster.cpp(155): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\ctitlemaster.cpp(162): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\ctitlemaster.cpp(162): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\ctitlemaster.cpp(186): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\ctitlemaster.cpp(186): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\ctitlemaster.cpp(194): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\ctitlemaster.cpp(194): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\ctitlemaster.cpp(419): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\ctitlemaster.cpp(425): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\ctitlemaster.cpp(430): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\ctitlemaster.cpp(436): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\ctitlemaster.cpp(449): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\ctitlemaster.cpp(460): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\ctitlemaster.cpp(510): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+  CTitle.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CScrollBar.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CPillar.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(35): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(36): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CLetter.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\cletter.cpp(46): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\cletter.cpp(47): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\cletter.cpp(137): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\cletter.cpp(138): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\cletter.cpp(139): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\cletter.cpp(140): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\cletter.cpp(141): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\cletter.cpp(142): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\cletter.cpp(143): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\title\cletter.cpp(144): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  StageSelect.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(35): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(36): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CStageMaster.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(35): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(36): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(51): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(126): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(132): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(133): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(134): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(135): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(136): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(141): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(142): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(143): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(144): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(145): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(151): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(152): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(153): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(154): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(155): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(174): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(189): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(190): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(191): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(192): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(193): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(301): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(319): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(414): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cstagemaster.cpp(501): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CScoreScale.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(35): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(36): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.cpp(54): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.cpp(55): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CFontUIScale.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  SceneTransition.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(35): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(36): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\scenetransition.cpp(245): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  SceneTraDecision.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  コードを生成中...
+  コンパイル中...
+  SceneManager.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  ResultManager.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(35): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(36): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(116): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(116): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(161): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(231): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(298): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(401): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(402): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(403): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(404): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(436): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(437): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(438): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(439): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(481): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(482): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(483): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(484): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(515): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(516): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(517): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\resultmanager.cpp(518): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CTextBox.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(35): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(36): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CScore.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CRetryBotton.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CResultScore.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(35): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(36): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CResult.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(35): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(36): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CNumber.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\cnumber.cpp(64): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\cnumber.cpp(65): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\cnumber.cpp(66): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\cnumber.cpp(67): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\cnumber.cpp(111): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\cnumber.cpp(112): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\cnumber.cpp(113): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\result\cnumber.cpp(114): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  CNextBotton.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CGoToTitle.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CGoToSelect.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  GameMaster.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(35): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(36): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\gamemaster.cpp(108): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\gamemaster.cpp(109): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\gamemaster.cpp(111): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\gamemaster.cpp(115): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\gamemaster.cpp(244): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\gamemaster.cpp(245): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\gamemaster.cpp(246): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\gamemaster.cpp(247): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\gamemaster.cpp(593): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\gamemaster.cpp(593): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\gamemaster.cpp(609): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\gamemaster.cpp(610): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\gamemaster.cpp(756): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\gamemaster.cpp(777): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\gamemaster.cpp(789): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\gamemaster.cpp(822): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\gamemaster.cpp(823): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  CGameStage.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(35): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(36): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\cgamestage.cpp(65): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  CGame.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(35): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(36): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\cgame.cpp(36): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\cgame.cpp(38): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\cgame.cpp(39): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\cgame.cpp(42): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\cgame.cpp(43): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\cgame.cpp(44): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\cgame.cpp(49): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\gamestage\cgame.cpp(51): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+  CEditorSpring.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CEditorSetObj.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(109): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(110): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(122): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(123): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(135): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(136): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(148): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(149): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(151): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(152): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(213): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(214): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(248): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(249): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(283): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(284): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(378): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(379): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(388): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(389): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\editor\ceditorsetobj.cpp(508): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  CEditorFloor.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CEditorEraser.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CEditorBall.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CEditor.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  コードを生成中...
+  コンパイル中...
+  CFade.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\cfade.cpp(116): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\cfade.cpp(117): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\cfade.cpp(118): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\cfade.cpp(119): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  Particle.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\particle\particle.cpp(63): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\particle\particle.cpp(63): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Effect.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\particle\effect.cpp(71): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\particle\effect.cpp(194): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\particle\effect.cpp(195): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\particle\effect.cpp(196): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\particle\effect.cpp(197): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\particle\effect.cpp(228): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\particle\effect.cpp(229): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\particle\effect.cpp(230): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\particle\effect.cpp(231): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\particle\effect.cpp(239): warning C4101: 'pDevice': ローカル変数は 1 度も使われていません。
+  MouseParticle.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\mouseparticle.cpp(13): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\mouseparticle.cpp(13): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  main.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  scene2D.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\scene2d.cpp(151): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\scene2d.cpp(152): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\scene2d.cpp(153): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\scene2d.cpp(154): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  CWormHoleWarpPlayer.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CWormHole.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CSpringPushPlayer.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushplayer.cpp(95): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushplayer.cpp(96): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushplayer.cpp(98): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushplayer.cpp(105): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushplayer.cpp(106): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushplayer.cpp(108): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushplayer.cpp(129): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushplayer.cpp(130): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushplayer.cpp(131): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushplayer.cpp(138): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushplayer.cpp(139): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushplayer.cpp(140): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CSpringPushBall.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushball.cpp(76): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushball.cpp(77): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushball.cpp(79): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushball.cpp(86): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushball.cpp(87): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushball.cpp(89): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushball.cpp(110): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushball.cpp(111): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushball.cpp(112): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushball.cpp(119): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushball.cpp(120): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspringpushball.cpp(121): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CSpring.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspring.cpp(81): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspring.cpp(82): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspring.cpp(88): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cspring\cspring.cpp(89): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CPlayerHitFloorBreak.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayerhitfloorbreak.cpp(43): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayerhitfloorbreak.cpp(44): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CPlayer.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(109): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(191): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(192): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(197): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(198): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(203): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(209): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(210): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(216): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(217): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(286): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(287): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(346): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(347): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(353): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(354): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(359): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(360): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(399): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(400): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(429): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(430): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(431): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(432): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(434): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(435): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(436): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(437): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(445): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(477): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(478): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(479): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(480): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(482): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(483): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(484): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(485): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(493): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(634): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(657): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(665): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(665): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(676): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(689): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(692): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(708): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cplayer.cpp(708): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  CJudgement.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(35): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(36): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cjudgement.cpp(138): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cjudgement.cpp(138): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+  CFloor.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CExplosion.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cexplosion.cpp(52): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cexplosion.cpp(53): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cexplosion.cpp(70): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cexplosion.cpp(71): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cexplosion.cpp(72): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  CBall.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(35): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\scenetransition\stageselect\cscorescale.h(36): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cball.cpp(104): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cball.cpp(105): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cball.cpp(159): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cball.cpp(160): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cball.cpp(177): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cball.cpp(178): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cball.cpp(179): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cball.cpp(180): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cball.cpp(325): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cball.cpp(326): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cball.cpp(377): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\japangameawards2017work\project\sourcefiles\gameobj\cball.cpp(382): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CBackground.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  コードを生成中...
+  showPolygonC++.vcxproj -> C:\Users\weiqi\Documents\JapanGameAwards2017Work\project\x64\Debug\showPolygonC++.exe
+  showPolygonC++.vcxproj -> C:\Users\weiqi\Documents\JapanGameAwards2017Work\project\x64\Debug\showPolygonC++.pdb (Full PDB)

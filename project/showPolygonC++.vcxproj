@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{4B237810-BEAE-40BF-8F10-7EC41E030C63}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>showPolygonC</RootNamespace>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>$(DXSDK_DIR)include;$(IncludePath);$(ProjectDir);$(ProjectDir)SourceFiles;$(ProjectDir)SourceFiles\gameObj;$(ProjectDir)SourceFiles\gameObj\CSpring;$(ProjectDir)SourceFiles\gameObj\CWormHole;$(ProjectDir)SourceFiles\particle;$(ProjectDir)SourceFiles\sceneTransition;$(ProjectDir)SourceFiles\sceneTransition\editor;$(ProjectDir)SourceFiles\sceneTransition\GameStage;$(ProjectDir)SourceFiles\sceneTransition\Result;$(ProjectDir)SourceFiles\sceneTransition\StageSelect;$(ProjectDir)SourceFiles\sceneTransition\title;$(ProjectDir)SourceFiles\sceneTransition\tutorial;$(ProjectDir)SourceFiles\sound;$(ProjectDir)SourceFiles\specialHeader;$(ProjectDir)SourceFiles\system;$(ProjectDir)SourceFiles\TextureManager;$(ProjectDir)SourceFiles\UI;$(ProjectDir)SourceFiles\UI\CPause</IncludePath>
+    <LibraryPath>$(DXSDK_DIR)lib\x86;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>$(DXSDK_DIR)include;$(IncludePath);$(ProjectDir);$(ProjectDir)SourceFiles;$(ProjectDir)SourceFiles\gameObj;$(ProjectDir)SourceFiles\gameObj\CSpring;$(ProjectDir)SourceFiles\gameObj\CWormHole;$(ProjectDir)SourceFiles\particle;$(ProjectDir)SourceFiles\sceneTransition;$(ProjectDir)SourceFiles\sceneTransition\editor;$(ProjectDir)SourceFiles\sceneTransition\GameStage;$(ProjectDir)SourceFiles\sceneTransition\Result;$(ProjectDir)SourceFiles\sceneTransition\StageSelect;$(ProjectDir)SourceFiles\sceneTransition\title;$(ProjectDir)SourceFiles\sceneTransition\tutorial;$(ProjectDir)SourceFiles\sound;$(ProjectDir)SourceFiles\specialHeader;$(ProjectDir)SourceFiles\system;$(ProjectDir)SourceFiles\TextureManager;$(ProjectDir)SourceFiles\UI;$(ProjectDir)SourceFiles\UI\CPause</IncludePath>
+    <LibraryPath>$(DXSDK_DIR)lib\x64;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>$(DXSDK_DIR)include;$(IncludePath);$(ProjectDir);$(ProjectDir)SourceFiles;$(ProjectDir)SourceFiles\gameObj;$(ProjectDir)SourceFiles\gameObj\CSpring;$(ProjectDir)SourceFiles\gameObj\CWormHole;$(ProjectDir)SourceFiles\particle;$(ProjectDir)SourceFiles\sceneTransition;$(ProjectDir)SourceFiles\sceneTransition\editor;$(ProjectDir)SourceFiles\sceneTransition\GameStage;$(ProjectDir)SourceFiles\sceneTransition\Result;$(ProjectDir)SourceFiles\sceneTransition\StageSelect;$(ProjectDir)SourceFiles\sceneTransition\title;$(ProjectDir)SourceFiles\sceneTransition\tutorial;$(ProjectDir)SourceFiles\sound;$(ProjectDir)SourceFiles\specialHeader;$(ProjectDir)SourceFiles\system;$(ProjectDir)SourceFiles\TextureManager;$(ProjectDir)SourceFiles\UI;$(ProjectDir)SourceFiles\UI\CPause</IncludePath>
+    <LibraryPath>$(DXSDK_DIR)lib\x86;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>$(DXSDK_DIR)include;$(IncludePath);$(ProjectDir);$(ProjectDir)SourceFiles;$(ProjectDir)SourceFiles\gameObj;$(ProjectDir)SourceFiles\gameObj\CSpring;$(ProjectDir)SourceFiles\gameObj\CWormHole;$(ProjectDir)SourceFiles\particle;$(ProjectDir)SourceFiles\sceneTransition;$(ProjectDir)SourceFiles\sceneTransition\editor;$(ProjectDir)SourceFiles\sceneTransition\GameStage;$(ProjectDir)SourceFiles\sceneTransition\Result;$(ProjectDir)SourceFiles\sceneTransition\StageSelect;$(ProjectDir)SourceFiles\sceneTransition\title;$(ProjectDir)SourceFiles\sceneTransition\tutorial;$(ProjectDir)SourceFiles\sound;$(ProjectDir)SourceFiles\specialHeader;$(ProjectDir)SourceFiles\system;$(ProjectDir)SourceFiles\TextureManager;$(ProjectDir)SourceFiles\UI;$(ProjectDir)SourceFiles\UI\CPause</IncludePath>
+    <LibraryPath>$(DXSDK_DIR)lib\x64;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="SourceFiles\gameObj\CBackground.cpp" />
+    <ClCompile Include="SourceFiles\gameObj\CBall.cpp" />
+    <ClCompile Include="SourceFiles\gameObj\CExplosion.cpp" />
+    <ClCompile Include="SourceFiles\gameObj\CFloor.cpp" />
+    <ClCompile Include="SourceFiles\gameObj\CJudgement.cpp" />
+    <ClCompile Include="SourceFiles\gameObj\CPlayer.cpp" />
+    <ClCompile Include="SourceFiles\gameObj\CPlayerHitFloorBreak.cpp" />
+    <ClCompile Include="SourceFiles\gameObj\CSpring\CSpring.cpp" />
+    <ClCompile Include="SourceFiles\gameObj\CSpring\CSpringPushBall.cpp" />
+    <ClCompile Include="SourceFiles\gameObj\CSpring\CSpringPushPlayer.cpp" />
+    <ClCompile Include="SourceFiles\gameObj\CWormHole\CWormHole.cpp" />
+    <ClCompile Include="SourceFiles\gameObj\CWormHole\CWormHoleWarpPlayer.cpp" />
+    <ClCompile Include="SourceFiles\gameObj\scene2D.cpp" />
+    <ClCompile Include="SourceFiles\main.cpp" />
+    <ClCompile Include="SourceFiles\MouseParticle.cpp" />
+    <ClCompile Include="SourceFiles\particle\Effect.cpp" />
+    <ClCompile Include="SourceFiles\particle\Particle.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\CFade.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\editor\CEditor.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\editor\CEditorBall.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\editor\CEditorEraser.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\editor\CEditorFloor.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\editor\CEditorSetObj.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\editor\CEditorSpring.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\GameStage\CGame.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\GameStage\CGameStage.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\GameStage\GameMaster.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\Result\CGoToSelect.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\Result\CGoToTitle.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\Result\CNextBotton.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\Result\CNumber.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\Result\CResult.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\Result\CResultScore.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\Result\CRetryBotton.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\Result\CScore.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\Result\CTextBox.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\Result\ResultManager.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\SceneManager.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\SceneTraDecision.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\SceneTransition.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\StageSelect\CFontUIScale.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\StageSelect\CScoreScale.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\StageSelect\CStageMaster.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\StageSelect\StageSelect.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\title\CLetter.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\title\CPillar.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\title\CScrollBar.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\title\CTitle.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\title\CTitleMaster.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\title\CTitleTraBotton.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\tutorial\CMouseClickZone.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\tutorial\CTutorial.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\tutorial\CTutorial02.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\tutorial\CTutorialBlack.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\tutorial\TutorialMaster.cpp" />
+    <ClCompile Include="SourceFiles\sceneTransition\tutorial\TutorialMaster02.cpp" />
+    <ClCompile Include="SourceFiles\sound\sound.cpp" />
+    <ClCompile Include="SourceFiles\system\CEarthquake.cpp" />
+    <ClCompile Include="SourceFiles\system\hitCheck.cpp" />
+    <ClCompile Include="SourceFiles\system\input.cpp" />
+    <ClCompile Include="SourceFiles\system\inputmouse.cpp" />
+    <ClCompile Include="SourceFiles\system\renderer.cpp" />
+    <ClCompile Include="SourceFiles\system\scene.cpp" />
+    <ClCompile Include="SourceFiles\system\XInputGamepad.cpp" />
+    <ClCompile Include="SourceFiles\TextureManager\Tex.cpp" />
+    <ClCompile Include="SourceFiles\TextureManager\TexManager.cpp" />
+    <ClCompile Include="SourceFiles\UI\CFontUI.cpp" />
+    <ClCompile Include="SourceFiles\UI\CFontUIEffect.cpp" />
+    <ClCompile Include="SourceFiles\UI\CJudge.cpp" />
+    <ClCompile Include="SourceFiles\UI\CNumberGame.cpp" />
+    <ClCompile Include="SourceFiles\UI\CPause\CPause.cpp" />
+    <ClCompile Include="SourceFiles\UI\CPause\CPauseObj.cpp" />
+    <ClCompile Include="SourceFiles\UI\CPlayerArrow.cpp" />
+    <ClCompile Include="SourceFiles\UI\CPlayerGuild.cpp" />
+    <ClCompile Include="SourceFiles\UI\CPlayerSelecter.cpp" />
+    <ClCompile Include="SourceFiles\UI\CPlayerSelecterEF.cpp" />
+    <ClCompile Include="SourceFiles\UI\CSceneTraBotton.cpp" />
+    <ClCompile Include="SourceFiles\UI\CScoreGame.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="SourceFiles\gameObj\CBackground.h" />
+    <ClInclude Include="SourceFiles\gameObj\CBall.h" />
+    <ClInclude Include="SourceFiles\gameObj\CExplosion.h" />
+    <ClInclude Include="SourceFiles\gameObj\CFloor.h" />
+    <ClInclude Include="SourceFiles\gameObj\CJudgement.h" />
+    <ClInclude Include="SourceFiles\gameObj\CPlayer.h" />
+    <ClInclude Include="SourceFiles\gameObj\CPlayerHitFloorBreak.h" />
+    <ClInclude Include="SourceFiles\gameObj\CSpring\CSpring.h" />
+    <ClInclude Include="SourceFiles\gameObj\CSpring\CSpringPushBall.h" />
+    <ClInclude Include="SourceFiles\gameObj\CSpring\CSpringPushPlayer.h" />
+    <ClInclude Include="SourceFiles\gameObj\CWormHole\CWormHole.h" />
+    <ClInclude Include="SourceFiles\gameObj\CWormHole\CWormHoleWarpPlayer.h" />
+    <ClInclude Include="SourceFiles\gameObj\scene2D.h" />
+    <ClInclude Include="SourceFiles\main.h" />
+    <ClInclude Include="SourceFiles\MouseParticle.h" />
+    <ClInclude Include="SourceFiles\particle\Effect.h" />
+    <ClInclude Include="SourceFiles\particle\Particle.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\CFade.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\editor\CEditor.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\editor\CEditorBall.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\editor\CEditorEraser.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\editor\CEditorFloor.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\editor\CEditorSetObj.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\editor\CEditorSpring.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\GameStage\CGame.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\GameStage\CGameStage.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\GameStage\GameMaster.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\Result\CGoToSelect.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\Result\CGoToTitle.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\Result\CNextBotton.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\Result\CNumber.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\Result\CResult.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\Result\CResultScore.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\Result\CRetryBotton.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\Result\CScore.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\Result\CTextBox.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\Result\ResultManager.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\SceneManager.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\SceneTraDecision.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\SceneTransition.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\StageSelect\CFontUIScale.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\StageSelect\CScoreScale.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\StageSelect\CStageMaster.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\StageSelect\StageSelect.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\title\CLetter.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\title\CPillar.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\title\CScrollBar.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\title\CTitle.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\title\CTitleMaster.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\title\CTitleTraBotton.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\tutorial\CMouseClickZone.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\tutorial\CTutorial.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\tutorial\CTutorial02.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\tutorial\CTutorialBlack.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\tutorial\TutorialMaster.h" />
+    <ClInclude Include="SourceFiles\sceneTransition\tutorial\TutorialMaster02.h" />
+    <ClInclude Include="SourceFiles\sound\sound.h" />
+    <ClInclude Include="SourceFiles\specialHeader\BGM_SE_PASS.h" />
+    <ClInclude Include="SourceFiles\specialHeader\defineHeader.h" />
+    <ClInclude Include="SourceFiles\specialHeader\StageDataHeader.h" />
+    <ClInclude Include="SourceFiles\specialHeader\structHeader.h" />
+    <ClInclude Include="SourceFiles\specialHeader\TexPassHead.h" />
+    <ClInclude Include="SourceFiles\specialHeader\typedefHead01.h" />
+    <ClInclude Include="SourceFiles\system\CEarthquake.h" />
+    <ClInclude Include="SourceFiles\system\hitCheck.h" />
+    <ClInclude Include="SourceFiles\system\input.h" />
+    <ClInclude Include="SourceFiles\system\inputmouse.h" />
+    <ClInclude Include="SourceFiles\system\renderer.h" />
+    <ClInclude Include="SourceFiles\system\scene.h" />
+    <ClInclude Include="SourceFiles\system\XInputGamepad.h" />
+    <ClInclude Include="SourceFiles\TextureManager\Tex.h" />
+    <ClInclude Include="SourceFiles\TextureManager\TexManager.h" />
+    <ClInclude Include="SourceFiles\UI\CFontUI.h" />
+    <ClInclude Include="SourceFiles\UI\CFontUIEffect.h" />
+    <ClInclude Include="SourceFiles\UI\CJudge.h" />
+    <ClInclude Include="SourceFiles\UI\CNumberGame.h" />
+    <ClInclude Include="SourceFiles\UI\CPause\CPause.h" />
+    <ClInclude Include="SourceFiles\UI\CPause\CPauseObj.h" />
+    <ClInclude Include="SourceFiles\UI\CPlayerArrow.h" />
+    <ClInclude Include="SourceFiles\UI\CPlayerGuild.h" />
+    <ClInclude Include="SourceFiles\UI\CPlayerSelecter.h" />
+    <ClInclude Include="SourceFiles\UI\CPlayerSelecterEF.h" />
+    <ClInclude Include="SourceFiles\UI\CSceneTraBotton.h" />
+    <ClInclude Include="SourceFiles\UI\CScoreGame.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="showPolygonC++.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="icon1.ico" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

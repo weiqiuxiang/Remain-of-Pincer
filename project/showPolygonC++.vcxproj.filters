@@ -1,0 +1,571 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\gameObj">
+      <UniqueIdentifier>{21def730-803c-4d2e-b76c-f09241596541}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\system">
+      <UniqueIdentifier>{74dc7103-99b5-4595-b7ee-8bcf2ef4f81b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sceneTransition">
+      <UniqueIdentifier>{a260bad9-a30c-4a03-bfd9-5516507fbf08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\TextureManager">
+      <UniqueIdentifier>{65927300-c8c7-4bfc-be51-5373fc03deb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\specialHeader">
+      <UniqueIdentifier>{cc4ee759-9910-4674-beec-c7ffadc3844c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\UI">
+      <UniqueIdentifier>{86a2cab5-fd62-4f15-b22a-9f45402f00d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sceneTransition\editor">
+      <UniqueIdentifier>{5408e305-97b7-4a61-9890-dbaf89f6caba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sceneTransition\GameStage">
+      <UniqueIdentifier>{a758fbd3-d07f-4ebd-b956-c05b77790ffc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sceneTransition\Result">
+      <UniqueIdentifier>{1cf2b737-f0bb-4ff8-891c-fd8eb14a96a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sceneTransition\tutorial">
+      <UniqueIdentifier>{eb4fb1b3-58f3-44fa-920c-88a700c82d01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sceneTransition\title">
+      <UniqueIdentifier>{c56071a6-7cd7-4bad-a8e6-47c962dae832}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\gameObj\CSpring">
+      <UniqueIdentifier>{ddb7cb54-7399-4956-87f6-e7365a18c0fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sceneTransition\StageSelect">
+      <UniqueIdentifier>{211d6b31-6c83-4604-86d1-91b593636104}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\particle">
+      <UniqueIdentifier>{14139d34-0c40-4f70-918e-148540b20dba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sound">
+      <UniqueIdentifier>{263e33f1-5826-4f5c-87e6-dd7ea4d79ba8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\gameObj\CWormHole">
+      <UniqueIdentifier>{e31ac34d-0e8e-4630-b4e3-549591daacc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\UI\CPause">
+      <UniqueIdentifier>{9679d137-0e56-4f1a-97de-3e4090907730}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SourceFiles\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\MouseParticle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\gameObj\CSpring\CSpring.cpp">
+      <Filter>Source Files\gameObj\CSpring</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\gameObj\CSpring\CSpringPushBall.cpp">
+      <Filter>Source Files\gameObj\CSpring</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\gameObj\CSpring\CSpringPushPlayer.cpp">
+      <Filter>Source Files\gameObj\CSpring</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\gameObj\CWormHole\CWormHole.cpp">
+      <Filter>Source Files\gameObj\CWormHole</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\gameObj\CWormHole\CWormHoleWarpPlayer.cpp">
+      <Filter>Source Files\gameObj\CWormHole</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\gameObj\CBackground.cpp">
+      <Filter>Source Files\gameObj</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\gameObj\CBall.cpp">
+      <Filter>Source Files\gameObj</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\gameObj\CExplosion.cpp">
+      <Filter>Source Files\gameObj</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\gameObj\CFloor.cpp">
+      <Filter>Source Files\gameObj</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\gameObj\CJudgement.cpp">
+      <Filter>Source Files\gameObj</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\gameObj\CPlayer.cpp">
+      <Filter>Source Files\gameObj</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\gameObj\CPlayerHitFloorBreak.cpp">
+      <Filter>Source Files\gameObj</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\gameObj\scene2D.cpp">
+      <Filter>Source Files\gameObj</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\particle\Effect.cpp">
+      <Filter>Source Files\particle</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\particle\Particle.cpp">
+      <Filter>Source Files\particle</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\editor\CEditor.cpp">
+      <Filter>Source Files\sceneTransition\editor</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\editor\CEditorBall.cpp">
+      <Filter>Source Files\sceneTransition\editor</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\editor\CEditorEraser.cpp">
+      <Filter>Source Files\sceneTransition\editor</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\editor\CEditorFloor.cpp">
+      <Filter>Source Files\sceneTransition\editor</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\editor\CEditorSetObj.cpp">
+      <Filter>Source Files\sceneTransition\editor</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\editor\CEditorSpring.cpp">
+      <Filter>Source Files\sceneTransition\editor</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\GameStage\CGame.cpp">
+      <Filter>Source Files\sceneTransition\GameStage</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\GameStage\CGameStage.cpp">
+      <Filter>Source Files\sceneTransition\GameStage</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\GameStage\GameMaster.cpp">
+      <Filter>Source Files\sceneTransition\GameStage</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\Result\CGoToSelect.cpp">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\Result\CGoToTitle.cpp">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\Result\CNextBotton.cpp">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\Result\CNumber.cpp">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\Result\CResult.cpp">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\Result\CResultScore.cpp">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\Result\CRetryBotton.cpp">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\Result\CScore.cpp">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\Result\CTextBox.cpp">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\Result\ResultManager.cpp">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\StageSelect\CFontUIScale.cpp">
+      <Filter>Source Files\sceneTransition\StageSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\StageSelect\CScoreScale.cpp">
+      <Filter>Source Files\sceneTransition\StageSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\StageSelect\CStageMaster.cpp">
+      <Filter>Source Files\sceneTransition\StageSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\StageSelect\StageSelect.cpp">
+      <Filter>Source Files\sceneTransition\StageSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\title\CLetter.cpp">
+      <Filter>Source Files\sceneTransition\title</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\title\CPillar.cpp">
+      <Filter>Source Files\sceneTransition\title</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\title\CScrollBar.cpp">
+      <Filter>Source Files\sceneTransition\title</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\title\CTitle.cpp">
+      <Filter>Source Files\sceneTransition\title</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\title\CTitleMaster.cpp">
+      <Filter>Source Files\sceneTransition\title</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\title\CTitleTraBotton.cpp">
+      <Filter>Source Files\sceneTransition\title</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\tutorial\CMouseClickZone.cpp">
+      <Filter>Source Files\sceneTransition\tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\tutorial\CTutorial.cpp">
+      <Filter>Source Files\sceneTransition\tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\tutorial\CTutorial02.cpp">
+      <Filter>Source Files\sceneTransition\tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\tutorial\CTutorialBlack.cpp">
+      <Filter>Source Files\sceneTransition\tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\tutorial\TutorialMaster.cpp">
+      <Filter>Source Files\sceneTransition\tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\tutorial\TutorialMaster02.cpp">
+      <Filter>Source Files\sceneTransition\tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\CFade.cpp">
+      <Filter>Source Files\sceneTransition</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\SceneManager.cpp">
+      <Filter>Source Files\sceneTransition</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\SceneTraDecision.cpp">
+      <Filter>Source Files\sceneTransition</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sceneTransition\SceneTransition.cpp">
+      <Filter>Source Files\sceneTransition</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\sound\sound.cpp">
+      <Filter>Source Files\sound</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\system\CEarthquake.cpp">
+      <Filter>Source Files\system</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\system\hitCheck.cpp">
+      <Filter>Source Files\system</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\system\input.cpp">
+      <Filter>Source Files\system</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\system\inputmouse.cpp">
+      <Filter>Source Files\system</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\system\renderer.cpp">
+      <Filter>Source Files\system</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\system\scene.cpp">
+      <Filter>Source Files\system</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\system\XInputGamepad.cpp">
+      <Filter>Source Files\system</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\TextureManager\Tex.cpp">
+      <Filter>Source Files\TextureManager</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\TextureManager\TexManager.cpp">
+      <Filter>Source Files\TextureManager</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\UI\CPause\CPause.cpp">
+      <Filter>Source Files\UI\CPause</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\UI\CPause\CPauseObj.cpp">
+      <Filter>Source Files\UI\CPause</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\UI\CFontUI.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\UI\CFontUIEffect.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\UI\CJudge.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\UI\CNumberGame.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\UI\CPlayerArrow.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\UI\CPlayerGuild.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\UI\CPlayerSelecter.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\UI\CPlayerSelecterEF.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\UI\CSceneTraBotton.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\UI\CScoreGame.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\main.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\MouseParticle.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\gameObj\CSpring\CSpring.h">
+      <Filter>Source Files\gameObj\CSpring</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\gameObj\CSpring\CSpringPushBall.h">
+      <Filter>Source Files\gameObj\CSpring</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\gameObj\CSpring\CSpringPushPlayer.h">
+      <Filter>Source Files\gameObj\CSpring</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\gameObj\CWormHole\CWormHole.h">
+      <Filter>Source Files\gameObj\CWormHole</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\gameObj\CWormHole\CWormHoleWarpPlayer.h">
+      <Filter>Source Files\gameObj\CWormHole</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\gameObj\CBackground.h">
+      <Filter>Source Files\gameObj</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\gameObj\CBall.h">
+      <Filter>Source Files\gameObj</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\gameObj\CExplosion.h">
+      <Filter>Source Files\gameObj</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\gameObj\CFloor.h">
+      <Filter>Source Files\gameObj</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\gameObj\CJudgement.h">
+      <Filter>Source Files\gameObj</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\gameObj\CPlayer.h">
+      <Filter>Source Files\gameObj</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\gameObj\CPlayerHitFloorBreak.h">
+      <Filter>Source Files\gameObj</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\gameObj\scene2D.h">
+      <Filter>Source Files\gameObj</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\particle\Effect.h">
+      <Filter>Source Files\particle</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\particle\Particle.h">
+      <Filter>Source Files\particle</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\editor\CEditor.h">
+      <Filter>Source Files\sceneTransition\editor</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\editor\CEditorBall.h">
+      <Filter>Source Files\sceneTransition\editor</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\editor\CEditorEraser.h">
+      <Filter>Source Files\sceneTransition\editor</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\editor\CEditorFloor.h">
+      <Filter>Source Files\sceneTransition\editor</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\editor\CEditorSetObj.h">
+      <Filter>Source Files\sceneTransition\editor</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\editor\CEditorSpring.h">
+      <Filter>Source Files\sceneTransition\editor</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\GameStage\CGame.h">
+      <Filter>Source Files\sceneTransition\GameStage</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\GameStage\CGameStage.h">
+      <Filter>Source Files\sceneTransition\GameStage</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\GameStage\GameMaster.h">
+      <Filter>Source Files\sceneTransition\GameStage</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\Result\CGoToSelect.h">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\Result\CGoToTitle.h">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\Result\CNextBotton.h">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\Result\CNumber.h">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\Result\CResult.h">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\Result\CResultScore.h">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\Result\CRetryBotton.h">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\Result\CScore.h">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\Result\CTextBox.h">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\Result\ResultManager.h">
+      <Filter>Source Files\sceneTransition\Result</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\StageSelect\CFontUIScale.h">
+      <Filter>Source Files\sceneTransition\StageSelect</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\StageSelect\CScoreScale.h">
+      <Filter>Source Files\sceneTransition\StageSelect</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\StageSelect\CStageMaster.h">
+      <Filter>Source Files\sceneTransition\StageSelect</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\StageSelect\StageSelect.h">
+      <Filter>Source Files\sceneTransition\StageSelect</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\title\CLetter.h">
+      <Filter>Source Files\sceneTransition\title</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\title\CPillar.h">
+      <Filter>Source Files\sceneTransition\title</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\title\CScrollBar.h">
+      <Filter>Source Files\sceneTransition\title</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\title\CTitle.h">
+      <Filter>Source Files\sceneTransition\title</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\title\CTitleMaster.h">
+      <Filter>Source Files\sceneTransition\title</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\title\CTitleTraBotton.h">
+      <Filter>Source Files\sceneTransition\title</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\tutorial\CMouseClickZone.h">
+      <Filter>Source Files\sceneTransition\tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\tutorial\CTutorial.h">
+      <Filter>Source Files\sceneTransition\tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\tutorial\CTutorial02.h">
+      <Filter>Source Files\sceneTransition\tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\tutorial\CTutorialBlack.h">
+      <Filter>Source Files\sceneTransition\tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\tutorial\TutorialMaster.h">
+      <Filter>Source Files\sceneTransition\tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\tutorial\TutorialMaster02.h">
+      <Filter>Source Files\sceneTransition\tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\CFade.h">
+      <Filter>Source Files\sceneTransition</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\SceneManager.h">
+      <Filter>Source Files\sceneTransition</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\SceneTraDecision.h">
+      <Filter>Source Files\sceneTransition</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sceneTransition\SceneTransition.h">
+      <Filter>Source Files\sceneTransition</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\sound\sound.h">
+      <Filter>Source Files\sound</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\specialHeader\BGM_SE_PASS.h">
+      <Filter>Source Files\specialHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\specialHeader\defineHeader.h">
+      <Filter>Source Files\specialHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\specialHeader\StageDataHeader.h">
+      <Filter>Source Files\specialHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\specialHeader\structHeader.h">
+      <Filter>Source Files\specialHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\specialHeader\TexPassHead.h">
+      <Filter>Source Files\specialHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\specialHeader\typedefHead01.h">
+      <Filter>Source Files\specialHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\system\CEarthquake.h">
+      <Filter>Source Files\system</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\system\hitCheck.h">
+      <Filter>Source Files\system</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\system\input.h">
+      <Filter>Source Files\system</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\system\inputmouse.h">
+      <Filter>Source Files\system</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\system\renderer.h">
+      <Filter>Source Files\system</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\system\scene.h">
+      <Filter>Source Files\system</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\system\XInputGamepad.h">
+      <Filter>Source Files\system</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\TextureManager\Tex.h">
+      <Filter>Source Files\TextureManager</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\TextureManager\TexManager.h">
+      <Filter>Source Files\TextureManager</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\UI\CPause\CPause.h">
+      <Filter>Source Files\UI\CPause</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\UI\CPause\CPauseObj.h">
+      <Filter>Source Files\UI\CPause</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\UI\CFontUI.h">
+      <Filter>Source Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\UI\CFontUIEffect.h">
+      <Filter>Source Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\UI\CJudge.h">
+      <Filter>Source Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\UI\CNumberGame.h">
+      <Filter>Source Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\UI\CPlayerArrow.h">
+      <Filter>Source Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\UI\CPlayerGuild.h">
+      <Filter>Source Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\UI\CPlayerSelecter.h">
+      <Filter>Source Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\UI\CPlayerSelecterEF.h">
+      <Filter>Source Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\UI\CSceneTraBotton.h">
+      <Filter>Source Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\UI\CScoreGame.h">
+      <Filter>Source Files\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="showPolygonC++.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="icon1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
